@@ -1,1 +1,4 @@
-# gabrielhrs.github.io
+---
+layout: home
+title: Gabriel Santos
+---
