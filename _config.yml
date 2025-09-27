@@ -1,3 +1,8 @@
+include:
+  - assets
+sass:
+  style: compressed
+
 title: Gabriel Santos
 theme: minima
 markdown: kramdown
