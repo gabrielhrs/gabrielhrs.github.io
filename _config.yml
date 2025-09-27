@@ -1,5 +1,5 @@
 title: Gabriel Santos
 theme: minima
-  skin: dark   # options: classic, dark, solarized, auto
+  skin: dark
 markdown: kramdown
 
