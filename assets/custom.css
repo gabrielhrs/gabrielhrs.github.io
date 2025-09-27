@@ -1,0 +1,11 @@
+/* assets/custom.css */
+body {
+  background-color: #f9fafc; /* light cool tone */
+  color: #333;
+}
+a {
+  color: #1a73e8;
+}
+a:hover {
+  color: #0d9488;
+}
