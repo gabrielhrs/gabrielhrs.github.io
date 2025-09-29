@@ -13,7 +13,7 @@ author:
   # github: your-github
   # linkedin: your-linkedin
 minima:
-  skin: classic   # or 'auto' to let users get dark mode via system
+  skin: auto   # or 'auto' to let users get dark mode via system
     social_links:
     - { platform: github,  user_url: "https://github.com/gabrielhrs" }
 plugins: []   # keep minimal for easy deployment
