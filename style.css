@@ -1,0 +1,44 @@
+/* Reset-ish */
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+
+/* Black background, clean type */
+body {
+  background: #000;
+  color: #fff;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Content wrapper */
+.wrap {
+  max-width: 720px;
+  margin: 10vh auto 20vh;
+  padding: 0 1.25rem;
+}
+
+/* Header */
+h1 {
+  font-size: clamp(2rem, 4vw + 1rem, 3rem);
+  margin: 0 0 0.25rem 0;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+/* Separator */
+hr {
+  border: 0;
+  border-top: 1px solid #222;
+  margin: 1.25rem 0 1.5rem;
+}
+
+/* Bio text */
+.bio p {
+  margin: 0;
+  font-size: 1.05rem;
+  color: #e8e8e8;
+}
+
+/* Optional link styles */
+a { color: #7aa2ff; text-decoration: none; }
+a:hover { text-decoration: underline; }
