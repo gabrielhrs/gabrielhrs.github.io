@@ -4,8 +4,18 @@ sass:
   style: compressed
 
 title: Gabriel Santos
+tagline: Game Theory • Multi-Agent Systems • AI
 theme: minima
+author:
+  name: Gabriel Santos
+  # email: your.email@domain
+  # scholar: https://scholar.google.com/citations?user=LAaTS3AAAAAJ&hl=en
+  # github: your-github
+  # linkedin: your-linkedin
 minima:
   skin: classic   # or 'auto' to let users get dark mode via system
+    social_links:
+    - { platform: github,  user_url: "https://github.com/gabrielhrs" }
+plugins: []   # keep minimal for easy deployment
 markdown: kramdown
 
