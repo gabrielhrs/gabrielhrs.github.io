@@ -5,5 +5,7 @@ sass:
 
 title: Gabriel Santos
 theme: minima
+minima:
+  skin: classic   # or 'auto' to let users get dark mode via system
 markdown: kramdown
 
